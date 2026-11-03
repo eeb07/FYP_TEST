@@ -1,0 +1,21 @@
+{
+  "name": "pre-cve-test-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hoek": "8.5.1",
+    "babel-eslint": "10.1.0",
+    "chokidar": "2.1.8",
+    "har-validator": "5.1.5",
+    "request": "2.88.2",
+    "request-promise": "4.2.6",
+    "uuid": "3.4.0"
+  }
+}
